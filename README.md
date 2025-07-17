@@ -1,6 +1,7 @@
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF U-23
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1247933
+http://filex.tv:8080/alamgirbhai/431977/302264
  
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u-23 2
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131941
@@ -226,14 +227,11 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
  
  
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203640/bjf51dnzbtaxz9nlkqbf.jpg" group-title=" 🏀voly 🏀",AVC
-https://zozotv.xyz:443/live/tonot@562/z562/475.ts
+http://filex.tv:8080/alamgirbhai/431977/302279
  
  
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title=" 🏀voly 🏀",livoly 2
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://ch.semar.my.id/req?id=vnl1.m3u8&auth=vnl1semar25&url=up
+
  
  
  
