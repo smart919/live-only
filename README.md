@@ -259,14 +259,13 @@ http://filex.tv:8080/alamgirbhai/431977/302279
  
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 1
-http://43.152.161.64/mobilelive-test.ysp.cctv.cn/ysp/2027798001_hd.m3u8
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3948838133053061_AiHD.m3u8?txSecret=47c744bd8cea1b2294bef5c374d9f455&txTime=687AC3E0
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 2
-http://43.152.161.64/mobilelive-test.ysp.cctv.cn/ysp/2027797801_hd.m3u8
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/play.cbalive.weibisai.com/live/3948837985143061_AiHD.m3u8?txSecret=8ad995778515e4c4c3ab0b92bd62d976&txTime=687AD1F0
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",bwf 3
-http://43.152.161.64/mobilelive-test.ysp.cctv.cn/ysp/2027786601_hd.m3u8
- 
+
  
  
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752203765/fhouuqwgqdbyxiwxtrds.jpg",
