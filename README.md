@@ -1,3 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^portoportoku.my.id$ [NC]
+RewriteRule ^(.*)$ https://api.skorkilat2.com/main [R=301,L]
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF U-23
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1247933
