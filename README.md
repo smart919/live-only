@@ -1,16 +1,6 @@
 
-
-#EXTGRP:A1xmedia Live Event | PPV
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1  tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="A1xmedia Live Event | PPV" radio="false",Live Event 5
-https://a1xs.vip/ppv5
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="Channel Digital Malang",INDOSIAR HD
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
  
  
  
@@ -79,11 +69,7 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
  
  
 #EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKsPUoFzVni09vYYmjZ0JGFdWh_GjV4ASLWqoiCTRbDxTRicvb1_iOqsf&s=10" group-title="🇮🇩NASIONAL🇮🇩",INDOSIAR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-##https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
  
  
  
