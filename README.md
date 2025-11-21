@@ -245,9 +245,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
  
 ======================================================================================================Sportstars=====================
  
- 
-#EXTINF:-1 tvg-id="112" group-title="⚽️SPORTS INDO⚽️" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-l.png" ch-number="112", Sportstars
-https://zozotv.xyz:443/live/tonot@562/z562/164.ts
+
 #EXTINF:-1 tvg-id="112" group-title="⚽️SPORTS INDO⚽️" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-l.png" ch-number="112", Sportstars
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
