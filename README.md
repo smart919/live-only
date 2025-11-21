@@ -1,4 +1,8 @@
-
+#EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", BRI LIGA 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/Fc-yn_N0UD1CKW8Xr7rkTw/Fv2lucGIbhPi2caWYvF5Lg/1752066294774/live/may211/chunklist.m3u8
 
  
  
